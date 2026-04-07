@@ -6,7 +6,7 @@ A modern and responsive restaurant website showcasing menu items, services, and 
 ---
 
 ## 🚀 Live Demo
-👉 https://your-netlify-link.netlify.app
+👉 [https://your-netlify-link.netlify.app](https://tasty-food-restaurant-4070f9.netlify.app/)
 
 ---
 
